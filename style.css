@@ -1,0 +1,21 @@
+.button{
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    color: red !important;
+    margin-bottom: 60px;
+    border-radius: 20px;
+}
+body{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 22px;
+}
